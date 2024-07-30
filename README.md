@@ -1,4 +1,3 @@
-<h1> my_favorite_artists </h1>
 
 
 <strong>Tame Impala</strong>
